@@ -1,2 +1,2 @@
 # Amazon-clone-
-This is my frist Repository
+This is my frist Git Repository
